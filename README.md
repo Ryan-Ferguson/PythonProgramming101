@@ -27,33 +27,15 @@ Instructor: **Ryan Ferguson**
   * Events, local groups, online courses, forums/chats, etc. and continual feature updates.
 
 
-### Writing Python
+### Running Python Code
 
-When writing a program in Python -- or pretty much any language -- there are infinite programs which can be created. If an idea exists, there can be an improved version of it. This applies in the macro sense, in the context of a Product, to the micro sense of a single chunk of code.
+With `python` command (MacOS):
+* Run `python filename.py`
 
-Here are some things Developers will do in Python:
+With `python` executable (Windows):
+* Run `C:\Python\python.exe filename.py`
 
-**Assignments:**
-
-Assignments are made when a piece of abstract information, like a person's first name or age, needs to become computational data that Python can understand & manipulate. Information about me is below with different chunks of my "personal data" assigned to **variables** which are _references_ to our data.
-
-```
-name = "Ryan" # string
-age = 28 # integer
-hobbies = ["programming", "gaming", "writing", "reading"] # list, i.e. "array"
-shoe_size = 10.5 # float, i.e. "decimal" or "floating point"
-training = { # dictionary
- "informal": "Learning programming since 2012; self-taught",
- "formal": "MailChimp -- four years from Customer Support to Product then Ops"
-}
-```
-
-**Comparisons:**
-
-
-
-**Conditionals:**
-
-
-
-**Functions:**
+With Jupyter Notebook:
+* Run `jupyter notebook`
+* Goto `http://localhost:8888/tree`
+* Click "New" -> "Python 3" **(or)** locate Python file in tree
