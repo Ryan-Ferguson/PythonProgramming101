@@ -28,6 +28,7 @@ Instructor: **Ryan Ferguson**
 
 
 ### Running Python Code
+When you're sure that Python is installed on your local machine (and it usually would be), you can run your machine's associated command to execute code in a Python file, ending in the `.py` extension.
 
 #### MacOS
 * Run `python filename.py`
