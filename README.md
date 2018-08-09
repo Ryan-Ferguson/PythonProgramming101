@@ -29,13 +29,13 @@ Instructor: **Ryan Ferguson**
 
 ### Running Python Code
 
-With `python` command (MacOS):
+#### MacOS
 * Run `python filename.py`
 
-With `python` executable (Windows):
+#### Windows
 * Run `C:\Python\python.exe filename.py`
 
-With Jupyter Notebook:
+#### Jupyter
 * Run `jupyter notebook`
 * Goto `http://localhost:8888/tree`
 * Click "New" -> "Python 3" **(or)** locate Python file in tree
